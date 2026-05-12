@@ -234,7 +234,7 @@ with col_input:
     )
 
 with col_btn:
-    if st.button("\U0001f5d1\ufe0f Obriši", use_container_width=True):
+    if st.button("\U0001f5d1\ufe0f Obriši rezultat(e) pretrage", use_container_width=True):
         st.session_state.input_key += 1
         st.rerun()
 
