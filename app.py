@@ -475,7 +475,7 @@ if st.session_state.about_open:
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.markdown(
-    "<div style='text-align:center; font-size:0.78rem; color:#aaa; margin-bottom: 10px;'>"
+    "<div style='text-align:center; font-size:0.78rem; color:#aaa; margin-bottom: 200px;'>"
     "📋 Pretraga Pravilnika PPMV / PTPV &nbsp;·&nbsp; Verzija 1.5 &nbsp;·&nbsp; "
     "<a href='mailto:aca1976@mts.rs' style='color:#aaa;'>aca1976@mts.rs</a>"
     "</div>",
