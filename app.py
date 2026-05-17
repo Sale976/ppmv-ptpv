@@ -26,7 +26,7 @@ st.markdown("""
     .subtitle {
         font-size: 1.2rem;
         color: #555;
-        margin-bottom: 1.5rem;
+        margin-bottom: 0.5rem;
     }
     /* Info box */
     .info-box {
@@ -36,7 +36,7 @@ st.markdown("""
         padding: 0.65rem 1rem;
         font-size: 1rem;
         color: #1a3a5c;
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
     }
     /* Result card */
     .result-card {
