@@ -44,7 +44,7 @@ st.markdown("""
         border: 1px solid #d0dbe8;
         border-radius: 8px;
         padding: 0.85rem 1.1rem;
-        margin-bottom: 0.65rem;
+        margin-bottom: 3rem;
         box-shadow: 0 1px 3px rgba(0,0,0,0.06);
     }
     .result-card:hover {
