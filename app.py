@@ -439,7 +439,7 @@ else:
 if st.session_state.about_open:
     st.markdown(
         """
-        <div class="about-card" style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; background: #fff; margin-bottom: 20px;">
+        <div class="about-card" style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; background: #fff; margin-bottom: 200px;">
             <h2>📋 O aplikaciji</h2>
             <span class="about-version">Verzija 1.5</span>
             <hr class="about-divider">
