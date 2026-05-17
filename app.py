@@ -350,7 +350,7 @@ if query:
                                         // Pronalazi HTML element sidra u roditeljskom prozoru i skroluje glatko do njega
                                         var el = window.parent.document.getElementById("pdf-pogled-lokacija");
                                         if (el) {
-                                            el.scrollIntoView({behavior: "smooth", block: "start"});
+                                            el.scrollIntoView({behavior: "smooth", block: "center"});
                                         }
                                     } catch(e) { console.log(e); }
                                 </script>
