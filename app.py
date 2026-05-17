@@ -26,7 +26,7 @@ st.markdown("""
     .subtitle {
         font-size: 1.2rem;
         color: #555;
-        margin-bottom: 1rem;
+        margin-bottom: 1.5rem;
     }
     /* Info box */
     .info-box {
