@@ -463,7 +463,7 @@ if st.session_state.about_open:
                 <span class="about-label">Podaci:</span>
                 <span class="about-value">pravilnik.txt, ppmv.pdf, ptpv.pdf</span>
             </div>
-            <p class="about-footer-note" style="margin-top:10px; font-size:0.8rem; color:#888;">© 2026 Aleksandar · Sva prava zadržana</p>
+            <p class="about-footer-note" style="margin-top: 10px; font-size:0.8rem; color:#888;">© 2026 Aleksandar · Sva prava zadržana</p>
         </div>
         """,
         unsafe_allow_html=True
@@ -475,7 +475,7 @@ if st.session_state.about_open:
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.markdown(
-    "<div style='text-align:center; font-size:0.78rem; color:#aaa;'>"
+    "<div style='text-align:center; font-size:0.78rem; color:#aaa; margin-bottom: 200px'>"
     "📋 Pretraga Pravilnika PPMV / PTPV &nbsp;·&nbsp; Verzija 1.5 &nbsp;·&nbsp; "
     "<a href='mailto:aca1976@mts.rs' style='color:#aaa;'>aca1976@mts.rs</a>"
     "</div>",
