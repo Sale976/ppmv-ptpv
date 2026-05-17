@@ -21,7 +21,7 @@ st.markdown("""
         color: #1a3a5c;
         text-align: center;
         line-height: 1.35;
-        margin-bottom: 1rem;
+        margin-bottom: 3rem;
     }
     .subtitle {
         font-size: 1.2rem;
