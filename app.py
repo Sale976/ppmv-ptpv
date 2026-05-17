@@ -124,7 +124,7 @@ st.markdown("""
         border-radius: 10px;
         padding: 15px;
         background-color: #fafbfc;
-        margin-top: 20px;
+        margin-top: 200px;
     }
 
     /* Hide Streamlit default branding */
