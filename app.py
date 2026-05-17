@@ -238,7 +238,7 @@ with col_input:
     )
 
 with col_btn:
-    if st.button("\U0001f5d1\ufe0f Obriši", use_container_width=True):
+    if st.button("\U0001f5d1\ufe0f Obriši rezultate pretrage", use_container_width=True):
         st.session_state.input_key += 1
         st.session_state.selected_pdf = None  
         st.session_state.viewing_page = None
