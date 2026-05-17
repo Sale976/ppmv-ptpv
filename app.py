@@ -36,7 +36,7 @@ st.markdown("""
         padding: 0.65rem 1rem;
         font-size: 1rem;
         color: #1a3a5c;
-        margin-bottom: -10rem;
+        margin-bottom: 1rem;
     }
     /* Result card */
     .result-card {
