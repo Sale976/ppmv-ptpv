@@ -305,19 +305,6 @@ if query:
 
             with col_pdf_link:
                 st.markdown("<div style='height: 1px;'></div>", unsafe_allow_html=True)
-                st.markdown("""
-                    <style>
-                    .stButton > button {
-                        background-color: #FFFFF0; /* Green background */
-                        color: white;             /* White text */
-                        border-radius: 5px;
-                    }
-                    .stButton > button:hover {
-                        background-color: #00cc00; /* Darker green on hover */
-                        color: #ffffff;
-                    }
-                    </style>
-                    """, unsafe_allow_html=True)
                 
                 # Provera da li je baš ovaj rezultat trenutno aktivan u PDF prikazu
                 is_active = (st.session_state.selected_pdf is not None and 
