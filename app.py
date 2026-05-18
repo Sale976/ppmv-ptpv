@@ -235,12 +235,12 @@ with col_input:
             Column content here
         </div>
     """, unsafe_allow_html=True)
-    query = st.text_input(
-        label="Pretraga",
-        placeholder="Unesite ključnu reč (npr. kočnice, tahograf, svetlo...)",
-        label_visibility="collapsed",
-        key=f"search_input_{st.session_state.input_key}",
-    )
+        query = st.text_input(
+            label="Pretraga",
+            placeholder="Unesite ključnu reč (npr. kočnice, tahograf, svetlo...)",
+            label_visibility="collapsed",
+            key=f"search_input_{st.session_state.input_key}",
+        )
 
 with col_btn:
     if st.button("\U0001f5d1\ufe0f Obriši rezultate pretrage", use_container_width=True):
