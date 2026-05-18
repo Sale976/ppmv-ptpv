@@ -304,7 +304,7 @@ if query:
                 )
 
             with col_pdf_link:
-                st.markdown("<div style='height: 12px;'></div>" background-color: #4CAF50;, unsafe_allow_html=True)
+                st.markdown("<div style='height: 12px; background-color: #4CAF50;'></div>", unsafe_allow_html=True)
                 
                 # Provera da li je baš ovaj rezultat trenutno aktivan u PDF prikazu
                 is_active = (st.session_state.selected_pdf is not None and 
