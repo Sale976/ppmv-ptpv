@@ -304,11 +304,11 @@ if query:
                 )
 
             with col_pdf_link:
-                st.markdown("<div style='height: 12px;'></div>", unsafe_allow_html=True)
+                st.markdown("<div style='height: 1px;'></div>", unsafe_allow_html=True)
                 st.markdown("""
                     <style>
                     .stButton > button {
-                        background-color: #00ff00; /* Green background */
+                        background-color: #FFFFF0; /* Green background */
                         color: white;             /* White text */
                         border-radius: 5px;
                     }
