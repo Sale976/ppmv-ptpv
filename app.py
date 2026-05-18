@@ -234,7 +234,7 @@ st.markdown(f"""
     <style>
     /* Target the specific input by its data-testid or container */
     div[data-testid="stTextInput"] div[aria-label="Pretraga"] {{
-        background-color: #f0f2f6;
+        background-color: #FAEBD7;
         border-radius: 10px;
         border: 2px solid #ff4b4b;
     }}
