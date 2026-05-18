@@ -234,7 +234,7 @@ with col_input:
         label="Pretraga",
         placeholder="Unesite ključnu reč (npr. kočnice, tahograf, svetlo...)",
         label_visibility="collapsed",
-        background: #FAEBD7,
+        background="#FAEBD7",
         key=f"search_input_{st.session_state.input_key}",
     )
 
