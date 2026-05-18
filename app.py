@@ -310,7 +310,7 @@ if query:
                 is_active = (st.session_state.selected_pdf is not None and 
                              st.session_state.selected_pdf["raw"] == entry["raw"])
                 
-                btn_label = "Zatvori prikaz" if is_active else f"📄 Otvori dokument"
+                btn_label = "Zatvori prikaz" if is_active else f"📄 Otvori PDF dokument"
                 
                 if st.button(btn_label, use_container_width=True, key=f"btn_{idx}"):
                     if is_active:
