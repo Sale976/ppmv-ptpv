@@ -220,7 +220,7 @@ with hcol_about:
 # ── Tip box ───────────────────────────────────────────────────────────────────
 st.markdown(
     '<div class="info-box">'
-    '🛈 <strong>Primer načina pretrage:</strong> Unosom reči npr. <span style="font-style: italic; color: #BF5700;">"svetlo"</span> aplikacija vraća više mogućih '
+    '🛈 <strong>Primer načina pretrage:</strong> Unosom reči npr. <span style="font-style: italic; color: #FF8C00;">"svetlo"</span> aplikacija vraća više mogućih '
     'rezultata, međutim ako se unese <span style="font-style: italic; color: #BE5103;">"kratko svetlo"</span> dobija se jedan rezultat.'
     '</div>',
     unsafe_allow_html=True
