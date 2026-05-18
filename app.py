@@ -230,6 +230,11 @@ st.markdown(
 col_input, col_btn = st.columns([5, 1])
 
 with col_input:
+    st.markdown("""
+        <div style="background-color: #f4f4f4; padding: 15px; border-radius: 8px;">
+            Column content here
+        </div>
+    """, unsafe_allow_html=True)
     query = st.text_input(
         label="Pretraga",
         placeholder="Unesite ključnu reč (npr. kočnice, tahograf, svetlo...)",
