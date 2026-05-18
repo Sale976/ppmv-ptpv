@@ -229,6 +229,18 @@ st.markdown(
 # ── Search row ────────────────────────────────────────────────────────────────
 col_input, col_btn = st.columns([5, 1])
 
+# Custom CSS to style the input
+st.markdown(f"""
+    <style>
+    /* Target the specific input by its data-testid or container */
+    div[data-testid="stTextInput"] div[aria-label="Pretraga"] {{
+        background-color: #f0f2f6;
+        border-radius: 10px;
+        border: 2px solid #ff4b4b;
+    }}
+    </style>
+""", unsafe_allow_html=True)
+
 with col_input:
     query = st.text_input(
         label="Pretraga",
