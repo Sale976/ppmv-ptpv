@@ -133,8 +133,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ── Load & parse pravilnik.txt ────────────────────────────────────────────────
-PRAVILNIK_PATH = os.path.join(os.path.dirname(__file__), "pravilnik.txt")
+# ── Load & parse pravilnik_1.txt ────────────────────────────────────────────────
+PRAVILNIK_PATH = os.path.join(os.path.dirname(__file__), "pravilnik_1.txt")
 
 @st.cache_data
 def load_entries(path):
@@ -159,7 +159,7 @@ def load_entries(path):
                         "raw": line,
                     })
     except FileNotFoundError:
-        st.error(f"Fajl 'pravilnik.txt' nije pronađen na putanji: {path}")
+        st.error(f"Fajl 'pravilnik_1.txt' nije pronađen na putanji: {path}")
     return entries
 
 entries = load_entries(PRAVILNIK_PATH)
@@ -202,7 +202,7 @@ with hcol_title:
     )
     
     st.markdown(
-        '<div class="subtitle">🛈 Pravilnik o Podeli Motornih i Priključnih Vozila, br. 53 од 20. јуna 2025.   |   Pravilnik o Tehničkom Pregledu Vozila, br. 62 od 26. mаја 2022.</div>',
+        '<div class="subtitle">🛈 Pravilnik o Podeli Motornih i Priključnih Vozila, br. 54 од 19. јуna 2026.   |   Pravilnik o Tehničkom Pregledu Vozila, br. 62 od 26. mаја 2022.</div>',
         unsafe_allow_html=True
     )
 
@@ -462,7 +462,7 @@ if st.session_state.about_open:
             <div class="about-row">
                 <span class="about-icon">📄</span>
                 <span class="about-label">Podaci:</span>
-                <span class="about-value">pravilnik.txt, ppmv.pdf, ptpv.pdf</span>
+                <span class="about-value">pravilnik_1.txt, ppmv.pdf, ptpv.pdf</span>
             </div>
             <p class="about-footer-note" style="margin-top: 10px; font-size:0.8rem; color:#888;">© 2026 Aleksandar · Sva prava zadržana</p>
         </div>
