@@ -67,37 +67,37 @@ uslovi za razvrstavanje vozila vrste N -- član 9(PPMV) str. 12
 vrsta O -- član 10(PPMV) str. 15
 oblik karoserije za vozila vrste M, N, O -- član 11(PPMV) str. 16
 vrsta T, Tm ,TR i C -- član 12(PPMV) str. 20
-vrsta R, S -- član 13(PPMV) str. 22
-priključak za izvođenje radova za vozila vrste R i S -- član 14(PPMV) str. 23
-vrsta K -- član 15(PPMV) str. 23
-terenska vozila - podvrsta G -- član 16(PPMV) str. 24
-dužina vozila -- član 17(PPMV) str. 24
-širina vozila -- član 18(PPMV) str. 26
-visina vozila, klirens -- član 19(PPMV) str. 27
-vožnja u krug -- član 20(PPMV) str. 27
-najveća dozvoljena ukupna masa motornog vozila i prikolice -- član 21(PPMV) str. 27
-osovinsko opterećenje -- član 22(PPMV) str. 31
-najveća dozvoljena masa vozila sa točkovima od metala, pune gume itd -- član 23(PPMV) str. 32
-odnos najveće nominalne snage -- član 24(PPMV) str. 33
-sistem za upravljanje-opšte odredbe (volan) -- član 25(PPMV) str.33
-kočni sistem-opšte odredbe (kočnice) -- član 26(PPMV) str. 33
-kočne obloge (pločice, pakne, diskovi, doboši) -- član 27(PPMV) str. 34
-pneumatski kočni sistem (kočnice) -- član 28(PPMV) str. 34
-sistem za kočenje-funkcije kočnog sistema (radno, pomoćno, parkirno, dugotrajno usporavanje) -- član 29(PPMV) str. 35
-abs (kočenje) -- član 30(PPMV) str. 36
-radno kočenje -- član 31(PPMV) str. 37
-električno kočenje (regenerativno) -- član 31a(PPMV) str. 38
-sistem za dugotrajno usporavanje -- član 32(PPMV) str. 38
-komande kočenja -- član 33(PPMV) str. 39
-kočni sistem, servo -- član 34(PPMV) str. 40
-radno kočenje R -- član 35(PPMV) str. 40
-radno kočenje L, M, N, O -- član 36(PPMV) str. 41
-radno kočenje L1, L3 -- član 37(PPMV) str. 42
-radno kočenje L2, L5, L6, L7 -- član 38(PPMV) str. 42
-radno kočenje L4 -- član 39(PPMV) str. 42
-radno kočenje T, C, K, Tm, TR -- član 40(PPMV) str. 43
-normativi kočnih koeficijenata -- član 41(PPMV) str. 43
-tabela 1 i 2 kočnif koeficijenata -- član 41(PPMV) str. 44
+vrsta R, S -- član 13(PPMV) str. 21
+priključak za izvođenje radova za vozila vrste R i S -- član 14(PPMV) str. 22
+vrsta K -- član 15(PPMV) str. 22
+terenska vozila - podvrsta G -- član 16(PPMV) str. 23
+dužina vozila -- član 17(PPMV) str. 23
+širina vozila -- član 18(PPMV) str. 25
+visina vozila, klirens -- član 19(PPMV) str. 26
+vožnja u krug -- član 20(PPMV) str. 26
+najveća dozvoljena ukupna masa motornog vozila i prikolice -- član 21(PPMV) str. 26
+osovinsko opterećenje -- član 22(PPMV) str. 30
+najveća dozvoljena masa vozila sa točkovima od metala, pune gume itd -- član 23(PPMV) str. 31
+odnos najveće nominalne snage -- član 24(PPMV) str. 32
+sistem za upravljanje-opšte odredbe (volan) -- član 25(PPMV) str.32
+kočni sistem-opšte odredbe (kočnice) -- član 26(PPMV) str. 32
+kočne obloge (pločice, pakne, diskovi, doboši) -- član 27(PPMV) str. 33
+pneumatski kočni sistem (kočnice) -- član 28(PPMV) str. 33
+sistem za kočenje-funkcije kočnog sistema (radno, pomoćno, parkirno, dugotrajno usporavanje) -- član 29(PPMV) str. 34
+abs (kočenje) -- član 30(PPMV) str. 35
+radno kočenje -- član 31(PPMV) str. 36
+električno kočenje (regenerativno) -- član 31a(PPMV) str. 37
+sistem za dugotrajno usporavanje -- član 32(PPMV) str. 37
+komande kočenja -- član 33(PPMV) str. 38
+kočni sistem, servo -- član 34(PPMV) str. 39
+radno kočenje R -- član 35(PPMV) str. 39
+radno kočenje L, M, N, O -- član 36(PPMV) str. 40
+radno kočenje L1, L3 -- član 37(PPMV) str. 41
+radno kočenje L2, L5, L6, L7 -- član 38(PPMV) str. 41
+radno kočenje L4 -- član 39(PPMV) str. 41
+radno kočenje T, C, K, Tm, TR -- član 40(PPMV) str. 42
+normativi kočnih koeficijenata -- član 41(PPMV) str. 42
+tabela 1 i 2 kočnif koeficijenata -- član 41(PPMV) str. 43
 parkirno kočenje - koeficijent, razlika sila kočenja, ovalnost -- član 41(PPMV) str. 46
 svetlosno i svelosno signalni uređaji (vrste) -- član 42(PPMV) str. 47
 svetlosno i svelosno signalni uređaji (prednji deo vozila) -- član 43(PPMV) str. 48
