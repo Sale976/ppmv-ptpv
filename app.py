@@ -166,7 +166,7 @@ entries = load_entries(PRAVILNIK_PATH)
 
 # ── PDF Putanje ───────────────────────────────────────────────────────────────
 PDF_FILES = {
-    "PPMV": os.path.join(os.path.dirname(__file__), "ppmv.pdf"),
+    "PPMV": os.path.join(os.path.dirname(__file__), "ppmv_1.pdf"),
     "PTPV": os.path.join(os.path.dirname(__file__), "ptpv.pdf"),
 }
 
@@ -462,7 +462,7 @@ if st.session_state.about_open:
             <div class="about-row">
                 <span class="about-icon">📄</span>
                 <span class="about-label">Podaci:</span>
-                <span class="about-value">pravilnik_1.txt, ppmv.pdf, ptpv.pdf</span>
+                <span class="about-value">pravilnik_1.txt, ppmv_1.pdf, ptpv.pdf</span>
             </div>
             <p class="about-footer-note" style="margin-top: 10px; font-size:0.8rem; color:#888;">© 2026 Aleksandar · Sva prava zadržana</p>
         </div>
