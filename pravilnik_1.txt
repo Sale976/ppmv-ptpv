@@ -98,7 +98,7 @@ radno kočenje L4 -- član 39(PPMV) str. 40
 radno kočenje T, C, K, Tm, TR -- član 40(PPMV) str. 41
 normativi kočnih koeficijenata -- član 41(PPMV) str. 41
 tabela 1 i 2 kočnif koeficijenata -- član 41(PPMV) str. 42
-parkirno kočenje - koeficijent, razlika sila kočenja, ovalnost, sila na komandi, kočna tečnost -- član 41(PPMV) str. 44
+parkirno kočenje, koeficijent, razlika sila kočenja, ovalnost, sila na komandi, kočna tečnost -- član 41(PPMV) str. 44
 svetlosno i svelosno signalni uređaji (vrste) -- član 42(PPMV) str. 45
 svetlosno i svelosno signalni uređaji (prednji deo vozila) -- član 43(PPMV) str. 45
 svetlosno i svelosno signalni uređaji (istovetni, udvojeni) -- član 44(PPMV) str. 46
