@@ -1,2 +1,2 @@
 # ppmv-ptpv
-webapp for searching through law acts
+webapp for searching through motor vehicle act law book
