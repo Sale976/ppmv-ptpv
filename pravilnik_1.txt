@@ -150,7 +150,7 @@ pogonski uređaj (motor) -- član 88(PPMV) str. 81
 prenos snage (menjač) -- član 89(PPMV) str. 81
 delovi vozila od posebnog značaja (karoserija, VIN, proizvođačka tablica -- član 90(PPMV) str. 81
 traktori - kabina ili ram -- član 90(PPMV) str. 82
-visina i dubina stepenika M2 i M3, istureni delovi, oslonci za noge i nogara za L -- član 90(PPMV) str. 83
+visina i dubina stepenika M2 i M3, istureni delovi, oslonci za noge i nogare za L -- član 90(PPMV) str. 83
 M2, M3 (O) kao i N2 i N3 (O3 i O4) od stupanja Srbije u EU -- čln 90a(PPMV) str. 84
 boja, reklamne table i napisi -- član 91(PPMV) str. 85
 registarska tablica -- član 92(PPMV) str. 85
